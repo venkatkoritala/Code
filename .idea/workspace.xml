@@ -4,26 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfee0101-7b5a-4529-b969-56970c59bbbe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/JavaPractice/EliminateFNLcharString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/JavaPractice/FindAnOddNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/JavaPractice/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/JavaPractice/NumberPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/JavaPractice/PrintTheCapInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/JavaPractice/PrintTheOccOfChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/JavaPractice/RemoveTheDupChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/JavaPractice/ReversePyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/JavaPractice/StringAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/JavaPractice/StringPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/SeleniumPractice/DriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/SeleniumPractice/LaunchBrowser.java" afterDir="false" />
+    <list default="true" id="dfee0101-7b5a-4529-b969-56970c59bbbe" name="Changes" comment="Practice">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/JavaPractice/AaBbCcDDL2U.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/JavaPractice/CloneAList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/JavaPractice/DivisionWithOutOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/SeleniumPractice/SeleniumCommands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/SeleniumPractice/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/SeleniumPractice/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/SeleniumPractice/SingletonDriverConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/SeleniumPractice/SingletonDriverConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,31 +50,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="TestNG.SingletonDriverConfig">
-    <configuration name="EliminateFNLcharString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.JavaPractice.EliminateFNLcharString" />
+    <configuration name="AaBbCcDDL2U" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaPractice.AaBbCcDDL2U" />
       <module name="PracticeProgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.JavaPractice.*" />
+          <option name="PATTERN" value="com.JavaPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversePyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.JavaPractice.ReversePyramid" />
+    <configuration name="CloneAList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaPractice.CloneAList" />
       <module name="PracticeProgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.JavaPractice.*" />
+          <option name="PATTERN" value="com.JavaPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.JavaPractice.StringAnagram" />
+    <configuration name="DivisionWithOutOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaPractice.DivisionWithOutOperator" />
       <module name="PracticeProgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.JavaPractice.*" />
+          <option name="PATTERN" value="com.JavaPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,15 +108,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.JavaPractice.StringPalindrome" />
+    <configuration name="SeleniumCommands" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PracticeProgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.JavaPractice.*" />
+          <option name="PATTERN" value="com.SeleniumPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.SeleniumPractice" />
+      <option name="MAIN_CLASS_NAME" value="com.SeleniumPractice.SeleniumCommands" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -152,10 +145,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.SingletonDriverConfig" />
-        <item itemvalue="Application.StringAnagram" />
-        <item itemvalue="Application.ReversePyramid" />
-        <item itemvalue="Application.StringPalindrome" />
-        <item itemvalue="Application.EliminateFNLcharString" />
+        <item itemvalue="TestNG.SeleniumCommands" />
+        <item itemvalue="Application.DivisionWithOutOperator" />
+        <item itemvalue="Application.CloneAList" />
+        <item itemvalue="Application.AaBbCcDDL2U" />
       </list>
     </recent_temporary>
   </component>
@@ -167,12 +160,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681739002685</updated>
-      <workItem from="1681739003770" duration="16784000" />
+      <workItem from="1681739003770" duration="19553000" />
+      <workItem from="1681892252783" duration="716000" />
+      <workItem from="1681917791464" duration="3583000" />
+      <workItem from="1682433706466" duration="3476000" />
+      <workItem from="1682519171770" duration="347000" />
     </task>
+    <task id="LOCAL-00001" summary="Practice">
+      <created>1681876196332</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681876196332</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -186,6 +195,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/JavaPractice/ReversePyramid.java</url>
           <line>9</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/JavaPractice/AaBbCcDDL2U.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/JavaPractice/CloneAList.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

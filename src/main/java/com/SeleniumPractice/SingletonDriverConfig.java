@@ -3,17 +3,27 @@ import org.openqa.selenium.*;
 import org.testng.annotations.*;
 public class SingletonDriverConfig {
     public WebDriver driver;
-    @BeforeTest
+    DriverFactory driverInstance=DriverFactory.getInstance();;
+    @BeforeMethod
     public void browserSetup()
     {
-        DriverFactory driverInstance=DriverFactory.getInstance();
-        driver=driverInstance.setupDriver();
+
+
 
 
     }
     @Test
     public void test1(){
+        driver=driverInstance.setupDriver("chrome");
         driver.get("https://www.google.com");
+        driver.quit();
+
+    }
+    @Test
+    public void test2(){
+        driver=driverInstance.setupDriver("firefox");
+        driver.get("https://www.google.com");
+        driver.close();
 
     }
 
